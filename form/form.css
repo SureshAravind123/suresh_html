@@ -1,0 +1,53 @@
+ body{
+    background-color: darkslategrey;
+    color: azure;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background: url("download.jpg");
+} 
+
+form {
+    margin-left: 490px;
+    margin-top: 30px;
+    border: 5px black;
+    background-color:rgba(108, 113, 111, 0.56);
+    margin-right: 350px;
+    padding-top: 15px ;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+}
+div.background {
+    margin-right: 80px;
+    
+}
+
+.caption {
+    font-weight:bold;
+    font-size: 40px;
+    text-indent: 510px;
+    color: crimson;
+}
+input {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 7px;
+    padding-right: 7px;
+    
+}
+label
+{
+    font-size: 15px;
+    font-weight: bold;
+}
+p{
+    font-weight: bold;
+    font-size: 15px;
+    font-family: Arial;
+}
+input {
+    border-radius: 10px;
+    outline: none;
+    box-shadow: inset 1px 0px 1px;
+    
+}
